@@ -6,7 +6,7 @@ let age = 28;
 let hoppy = "Code";
 // Print the story here on line 8
 console.log(
-  `Mr. ${name}, in ${
-    58 - age
-  } years, you will be 58 years. By then you'll have decade of ${hoppy} Practice!`
+  `Mr. ${name}, in 33 years, you will be ${
+    age + 33
+  } years. By then you'll have decade of ${hoppy} Practice!`
 );
